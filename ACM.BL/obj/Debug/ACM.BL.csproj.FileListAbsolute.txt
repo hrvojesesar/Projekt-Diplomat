@@ -10,3 +10,9 @@ C:\Users\hrvoje.sesar\Desktop\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.AssemblyReferen
 C:\Users\hrvoje.sesar\Desktop\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
 C:\Users\hrvoje.sesar\Desktop\ACM\ACM.BL\obj\Debug\ACM.BL.dll
 C:\Users\hrvoje.sesar\Desktop\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\Users\hrvoje.sesar\Desktop\Projekt-Diplomat\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\hrvoje.sesar\Desktop\Projekt-Diplomat\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\hrvoje.sesar\Desktop\Projekt-Diplomat\ACM.BL\obj\Debug\ACM.BL.csproj.AssemblyReference.cache
+C:\Users\hrvoje.sesar\Desktop\Projekt-Diplomat\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\hrvoje.sesar\Desktop\Projekt-Diplomat\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\hrvoje.sesar\Desktop\Projekt-Diplomat\ACM.BL\obj\Debug\ACM.BL.pdb

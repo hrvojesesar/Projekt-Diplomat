@@ -1,0 +1,6 @@
+C:\Users\hrvoje.sesar\Desktop\Projekt-Diplomat\Acme.common\bin\Debug\Acme.common.dll
+C:\Users\hrvoje.sesar\Desktop\Projekt-Diplomat\Acme.common\bin\Debug\Acme.common.pdb
+C:\Users\hrvoje.sesar\Desktop\Projekt-Diplomat\Acme.common\obj\Debug\Acme.common.csproj.AssemblyReference.cache
+C:\Users\hrvoje.sesar\Desktop\Projekt-Diplomat\Acme.common\obj\Debug\Acme.common.csproj.CoreCompileInputs.cache
+C:\Users\hrvoje.sesar\Desktop\Projekt-Diplomat\Acme.common\obj\Debug\Acme.common.dll
+C:\Users\hrvoje.sesar\Desktop\Projekt-Diplomat\Acme.common\obj\Debug\Acme.common.pdb
